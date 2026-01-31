@@ -20,4 +20,4 @@ Um aplicativo desktop moderno desenvolvido em Python para monitoramento em tempo
 
 1. Clone o repositório:
    ```bash
-   git clone git@github.com:SEU_USUARIO/CalculateBTC.git
+   git clone git@github.com:ricardorhyamamoto/CalculateBTC.git
